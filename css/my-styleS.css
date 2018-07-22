@@ -1,7 +1,7 @@
 body {
   margin: auto;
   width: 50%;
-  background-color: pink;
+  background-color: burlywood;
   
 }
 
@@ -14,5 +14,5 @@ body {
 }
 
 .clicked {
-background-color: red;
+background-color: brown;
 }
